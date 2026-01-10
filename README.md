@@ -5,4 +5,4 @@ Here you'll find some public course material for your usage. These should includ
 * Sample Hands-on Labs
 * Course Outlines
 * Slides 
-
+* Etc
