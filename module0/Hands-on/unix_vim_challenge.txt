@@ -1,0 +1,11 @@
+**Hands-on Challenges
+
+1. Create a directory called challenge1 and move into it.
+
+2. While in the directory called challenge1, create a text file called HelloWorld.txt
+
+3. Copy the conetnt of this file, unix_vim_challenge.txt into that text file called HelloWorld.txt
+
+4. Add a line at the top of the HelloWord.txt file that reads: I inserted this text through insert mode
+
+5. Save and exist out of your HelloWorld.txt file 
