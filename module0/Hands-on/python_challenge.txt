@@ -1,0 +1,6 @@
+# Introduction to Python Challenge 
+
+Complete the python codes/programs in the Hands-on directory.
+
+These programs are missing some content in certain areas.
+Those areas have #TODO as placeholders. Complete those regions of code 
