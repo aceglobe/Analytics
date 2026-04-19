@@ -4,7 +4,7 @@
 
 # At ACE we believe in excellence  
 We specialize in consulting and Tech Trainings. Spececifically, we train through ACE Global Academy in the following areas
-- `Data Analytics`
+- Data Analytics
 - `DevOps (Development and Operations )`
 - `Virtual Assistant`
 
