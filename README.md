@@ -1,4 +1,4 @@
-<img width="227" height="112" alt="Screenshot 2026-04-19 164755" src="https://github.com/user-attachments/assets/8553973e-be29-4668-a041-d661c5dbd640" />
+<img width="221" height="103" alt="Screenshot 2026-04-19 164755" src="https://github.com/user-attachments/assets/551dfc9f-6a09-4cdc-85b4-4716dab4309b" />
 
 ## Welcome to ACE Global!
 
